@@ -1,0 +1,6 @@
+name: MythologyRevamped
+version: '${project.version}'
+main: xyz.roosterseatyou.mythologyrevamped.MythologyRevamped
+api-version: 1.18
+authors: [ Roosterseatyou, YoussefO07 ]
+description: Revamped version of a previous mythology plugin of mine.
