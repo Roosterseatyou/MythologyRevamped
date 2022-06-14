@@ -55,10 +55,6 @@
 
     <repositories>
         <repository>
-            <id>roosterseatyou</id>
-            <url>https://github.com/Roosterseatyou/PluginLibrary/raw/repo</url>
-        </repository>
-        <repository>
             <id>papermc-repo</id>
             <url>https://papermc.io/repo/repository/maven-public/</url>
         </repository>
@@ -70,15 +66,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>xyz.roosterseatyou</groupId>
-            <artifactId>PluginLibrary</artifactId>
-            <version>1.3</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.18.2-R0.1-SNAPSHOT</version>
+            <version>1.19-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
